@@ -37,7 +37,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   String _sharedText = "";
-  String _gitHubUrl = "https://github.com/alissone/";
+  String _gitHubUrl = "https://github.com/alissone/qr_code_generator";
 
   @override
   void initState() {
