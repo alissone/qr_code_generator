@@ -16,7 +16,7 @@ You can either scan the code from another device or share the resulting transpar
 
 ## Running locally
 
-Execute in a terminal emulator
+If you have Flutter v2.0.6 or above installed, execute in a terminal emulator
 
     flutter pub get
 
