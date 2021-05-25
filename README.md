@@ -26,3 +26,7 @@ and then
 
 ## Installing prebuilt binaries
 There is a prebuilt APK file on `beta` folder that can be downloaded [here](https://github.com/alissone/qr_code_generator/raw/main/beta/app-release.apk).
+
+## TODO
+- The exported image is black on some apps. This is due to the PNG background transparency being treated differently among apps. Adding a white background to the image before exporting should solve this issue;
+- Being able to generate a code from clipboard content should be a nice addition;
